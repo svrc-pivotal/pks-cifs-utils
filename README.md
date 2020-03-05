@@ -5,7 +5,7 @@
 This will ensure that PKS clusters can mount CIFS/SMB stores using the FlexVolume.
 https://github.com/Azure/kubernetes-volume-drivers/tree/master/flexvolume/smb
 
-It installs JQ and CIFS-utils.   Note that PKS on Azure clusters already have CIFS Utils installed.
+It installs JQ and CIFS-utils.   Note that PKS on Azure clusters already have CIFS Utils installed, but JQ isn't in the system path.
 
 ## How do I install it?
 
