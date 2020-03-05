@@ -1,0 +1,17 @@
+name: jq
+version: 0+dev.1
+commit_hash: empty
+uncommitted_changes: true
+jobs:
+- name: jq
+  version: 6438f5eea0800565d2f08dbfc064093f3e7004e28d4b455fc2835f9ac3eb86e0
+  fingerprint: 6438f5eea0800565d2f08dbfc064093f3e7004e28d4b455fc2835f9ac3eb86e0
+  sha1: sha256:8065bdee89f708fc3a20dc07cdfbaf41d127c7e91bd3aaa8b3b0b687d3189727
+  packages:
+  - jq
+packages:
+- name: jq
+  version: 946664413e6498c7ad4370c191f9d5ea5ea5451ee6ad89233bbcca3a56811627
+  fingerprint: 946664413e6498c7ad4370c191f9d5ea5ea5451ee6ad89233bbcca3a56811627
+  sha1: sha256:3c893ab1334291e2261e6fae97e2c213121b026ee3673a38a3eee0d1f6c37746
+  dependencies: []

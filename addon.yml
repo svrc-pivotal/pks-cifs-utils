@@ -1,0 +1,17 @@
+---
+addons:
+- include:
+    jobs:
+    - name: kubelet
+      release: kubo
+  jobs:
+  - name: jq
+    release: jq-release
+  - name: cifs-utils
+    release: kubo
+  name: cifs-utils-jq
+releases:
+- name: jq
+  version: 0+dev.1  
+- name: kubo
+  version: KUBO_VERSION
