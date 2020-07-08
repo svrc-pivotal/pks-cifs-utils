@@ -1,4 +1,4 @@
-# PKS CIFS and JQ addon
+# Tanzu Kubernetes Grid Integrated (TKGI) / PKS  CIFS and JQ addon
 
 ## What does this do?
 
